@@ -1,1 +1,1 @@
-# -jd02_News-Portal-Spring-Final
+# jd02_News-Portal-Spring-Final
